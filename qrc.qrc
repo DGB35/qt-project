@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imports/Constants.qml</file>
+        <file>main.qml</file>
+        <file>images/Q.png</file>
+        <file>components/InputText.qml</file>
+        <file>components/LoginButton.qml</file>
+        <file>imports/qmldir</file>
+        <file>components/Project.qml</file>
+        <file>components/Panel.qml</file>
+        <file>LoginWindow.qml</file>
+        <file>App.qml</file>
+        <file>MainWindow.qml</file>
+        <file>components/ProjectsPanel.qml</file>
+        <file>components/TicketsPanel.qml</file>
+        <file>ApplicationFlow.qml</file>
+        <file>components/Ticket.qml</file>
+        <file>components/TextComponent.qml</file>
+        <file>components/Header.qml</file>
+    </qresource>
+</RCC>
